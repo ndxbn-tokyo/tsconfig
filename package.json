@@ -1,6 +1,6 @@
 {
   "name": "@ndxbn/tsconfig",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "My TypeScript compiler Preset",
   "main": "tsconfig.json",
   "keywords": [],
