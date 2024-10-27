@@ -4,22 +4,21 @@
   "description": "My TypeScript compiler Preset",
   "main": "tsconfig.json",
   "keywords": [],
-  "author": "sitri@ndxbn <sitri.ndxbn@gmail.com>",
+  "author": "Sitri Kamishirasawa <sitri.ndxbn@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ndxbn/ndxbn.git"
+    "url": "git+https://github.com/ndxbn/tsconfig.git"
   },
   "bugs": {
-    "url": "https://github.com/ndxbn/ndxbn/issues"
+    "url": "https://github.com/ndxbn/tsconfig/issues"
   },
-  "homepage": "https://github.com/ndxbn/ndxbn/packages/tsc#readme",
+  "homepage": "https://github.com/ndxbn/tsconfig",
   "publishConfig": {
     "access": "public"
   },
   "gitHead": "f0e9b05984093a6025d40517d2c6872e34899b95",
   "devDependencies": {
-    "@tsconfig/node-lts": "20.1.3",
     "@tsconfig/recommended": "1.0.8",
     "@tsconfig/strictest": "2.0.5"
   }
