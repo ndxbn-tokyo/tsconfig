@@ -8,12 +8,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ndxbn/tsconfig.git"
+    "url": "git+https://github.com/ndxbn-tokyo/tsconfig.git"
   },
   "bugs": {
-    "url": "https://github.com/ndxbn/tsconfig/issues"
+    "url": "https://github.com/ndxbn-tokyo/tsconfig/issues"
   },
-  "homepage": "https://github.com/ndxbn/tsconfig",
+  "homepage": "https://github.com/ndxbn-tokyo/tsconfig",
   "publishConfig": {
     "access": "public"
   },
