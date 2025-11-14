@@ -19,7 +19,7 @@
   },
   "gitHead": "f0e9b05984093a6025d40517d2c6872e34899b95",
   "devDependencies": {
-    "@tsconfig/recommended": "1.0.10",
-    "@tsconfig/strictest": "2.0.6"
+    "@tsconfig/recommended": "1.0.13",
+    "@tsconfig/strictest": "2.0.8"
   }
 }
