@@ -1,7 +1,7 @@
 {
   "extends": [
     "@tsconfig/recommended/tsconfig.json",
-    "@tsconfig/node-lts/tsconfig.json",
+    "@tsconfig/bun/tsconfig.json",
     "@tsconfig/strictest/tsconfig.json"
   ],
   "compilerOptions": {
@@ -9,6 +9,6 @@
     "declarationMap": true,
     "sourceMap": true,
     "incremental": true,
-    "tsBuildInfoFile": "./.tsbuildinfo",
+    "tsBuildInfoFile": "./.tsbuildinfo"
   }
 }
